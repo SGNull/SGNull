@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, I'm Devin!
+
+I'm interested in a lot of things, but especially computer architecture and all that low-level stuff people tend to ignore.
+
+I'm also really interested in cybersecurity, since this tends to involve pulling back the curtain on how complex systems work to find vulnerabilities.
+
+I like coming up with brand new ideas and implementing them in CPUs, assembly languages, assemblers, and one time I even came up with a networking architecture.
 
 <!--
 **SGNull/SGNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
