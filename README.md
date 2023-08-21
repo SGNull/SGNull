@@ -2,7 +2,7 @@ Hi, I'm Devin!
 
 I'm interested in a lot of things, but especially computer architecture and all that low-level stuff people tend to ignore.
 
-I like coming up with brand new ideas and implementing them in CPUs, assembly languages, assemblers, and one time I even came up with a networking architecture.
+I like coming up with brand new ideas for low-level projects and implementing them, usually involving both software and hardware.
 
 <!--
 **SGNull/SGNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
