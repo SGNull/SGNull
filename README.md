@@ -1,6 +1,6 @@
 Hi, I'm Devin!
 
-I'm interested in a lot of things, but especially computer architecture and all that low-level stuff people tend to ignore.
+I'm interested in a lot of things, but especially computer architecture and all that low-level stuff that is often overlooked.
 
 I like coming up with brand new ideas for low-level projects and implementing them, usually involving both software and hardware.
 
